@@ -689,7 +689,7 @@ async def play(_, message: Message):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="Group", url="https://t.me/caripacarvirtual01"
+                            text="Group", url="https://t.me/jawravirtul"
                         ),
                     ],
                     [InlineKeyboardButton(text="Close", callback_data="cls")],
@@ -800,7 +800,7 @@ async def lol_cb(b, cb):
             ],
             [
                 InlineKeyboardButton(
-                    text="Group", url="https://t.me/RythmSupportGroup"
+                    text="Group", url="https://t.me/jawravirtul"
                 ),
             ],
             [InlineKeyboardButton(text="🗑️ Close", callback_data="cls")],
