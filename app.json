@@ -1,8 +1,8 @@
 {
-  "name": "Rythm",
+  "name": "🎵Music🎵",
   "description": "Music on Telegram. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/IrhamFadzillah/Rythm",
+  "repository": "https://github.com/Nobiita/Music",
   "stack": "container",
   "buildpacks":  [
     {
