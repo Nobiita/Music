@@ -30,8 +30,8 @@ BOT_NAME = getenv("BOT_NAME")
 UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "NamelessChannel01")
 BG_IMAGE = getenv(
     "BG_IMAGE",
-    "https://telegra.ph/file/3a434d502a8adac2c8ef9.png")
-RYTHM_IMG = getenv("RYTHM_IMG", "https://telegra.ph/file/8d3fb64413745b56f02f5.png")
+    "https://telegra.ph/file/6db2e46f3b04b324d1ba8.png")
+RYTHM_IMG = getenv("RYTHM_IMG", "https://telegra.ph/file/0116b16b09872beaec7ae.png")
 admins = {}
 API_ID = int(getenv("API_ID"))
 API_HASH = getenv("API_HASH")
